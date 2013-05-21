@@ -1,0 +1,17 @@
+/* First include the mix-ins and constants */
+// @import "definitions/constants.scss";
+// @import "definitions/mixins.scss";
+
+/* Page Specific */
+// @import "pages/signin.scss";
+// @import "pages/data.scss";
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#container {
+    min-height: 100%
+}

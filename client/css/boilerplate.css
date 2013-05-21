@@ -1,0 +1,8 @@
+/* First include the mix-ins and constants */
+/* Page Specific */
+html, body {
+  height: 100%;
+  margin: 0; }
+
+#container {
+  min-height: 100%; }

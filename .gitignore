@@ -1,0 +1,29 @@
+
+**.pyc
+/.project
+
+/.pydevproject
+
+**.sublime-project
+**.sublime-workspace
+
+
+# /
+/*.komodoproject
+/.project
+/log
+/bin
+
+# /res/
+/res/*.komodotools
+**.pyc
+**.swp
+SpecRunner.html
+**config_selenium.py
+res/assets/scss/.sass-cache/
+res/assets/css
+ghostdriver.log
+sauce_connect.log
+
+.DS_Store
+
